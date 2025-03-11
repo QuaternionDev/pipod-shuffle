@@ -2,10 +2,10 @@
 A recreation of 3rd Gen iPod Shuffle based on Pi Zero 2 W.
 Follow the instructions below, to create your own PiPod Shuffle!
 
-## Compatible devices
+### Compatible devices
 Raspberry Pi Zero 2 W or above
 
-### 0. Requirements for setup
+## 0. Requirements for setup
 - Laptop or PC 
 - External SD Card reader (optional)
 - fast SD card (min 8 GB)
