@@ -17,3 +17,10 @@ The following components will be optional because you can do the setup through S
 - mini/micro HDMI to HDMI adapter (optional)
 - micro USB-USB OTG adapter (only Pi Zero, optional)
 - Keyboard (Bluetooth or wired, optional)
+
+## 1. Flashing the OS to the SD card
+In this step, we will flash Raspberry Pi OS to the SD card. We will use Raspberry Pi OS Lite, for the best performance.
+We will use Raspberry Pi Imager to flash the card.
+
+### 1.1 Installing Raspberry Pi Imager
+Download Raspberry Pi Imager to your computer from <a href="https://www.raspberrypi.com/software/">raspberrypi.com/software</a>
