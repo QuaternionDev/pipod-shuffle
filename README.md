@@ -24,3 +24,14 @@ We will use Raspberry Pi Imager to flash the card.
 
 ### 1.1 Installing Raspberry Pi Imager
 Download Raspberry Pi Imager to your computer from <a href="https://www.raspberrypi.com/software/">raspberrypi.com/software</a>
+
+#### Arch Linux (pacman):
+```
+pacman -S rpi-imager
+```
+
+#### Fedora (flathub)
+```
+flatpak install rpi-imager
+```
+
